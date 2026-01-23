@@ -29,4 +29,4 @@
 
 ## 📊 GitHub Stats
 
-![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAMALESH-PANDA&show_icons=true&theme=tokyonight)
+![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaleshpanda&show_icons=true&theme=tokyonight)
