@@ -29,7 +29,6 @@
 
 ## 📊 GitHub Stats
 
-![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaleshpanda&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshpanda&layout=compact&theme=tokyonight)
+![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaleshpanda&show_icons=true&theme=tokyonight)
 
 
