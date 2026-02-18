@@ -1,4 +1,4 @@
-## 💫 About Me
+
 <p align="center">
   <strong>Hi, I’m Kamalesh :)</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
@@ -9,26 +9,39 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-- 🎓 **Student**
-- 📊 Interested in **Data Analytics**
-- 💻 Proficient in **Python, SQL, Power BI, Excel**
-- 🌱 Currently learning **data analysis, statistics, and basic machine learning**
-- 💬 Ask me about **Python, SQL, and data basics**
-- ⚡ Fun fact: I enjoy learning by working on real-world datasets 📈
+- Student focused on Data Analytics and backend-driven data applications
+- Proficient in **Python, SQL, Power BI, Excel, Flask**
+- Experience in building data analysis projects using real-world datasets
+- Currently, learning Machine Learning and Computer Vision, with focus on practical applications
+- Familiar with Docker and containerizing applications
+- Familiar with backend development using Flask 
+- Continuously improving analytical, backend, and deployment skills
+
+---
+## Tech Stack
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin-right:15px;"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" style="margin-right:15px;"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" style="margin-right:15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" style="margin-right:15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" style="margin-right:15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" style="margin-right:15px;"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" style="margin-right:15px;"/>
+<img src="https://img.icons8.com/color/48/ibm.png" width="40" style="margin-right:15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin-right:15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" style="margin-right:15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" style="margin-right:15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" style="margin-right:15px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## GitHub Stats
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft%20Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![IBM%20Cognos](https://img.shields.io/badge/IBM%20Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaleshpanda&show_icons=true&theme=tokyonight)
-
-
+![](https://github-readme-stats.vercel.app/api?username=kamaleshpanda&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kamaleshpanda&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshpanda&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
