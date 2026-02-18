@@ -22,21 +22,37 @@
 ---
 ## Tech Stack
 
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin-right:15px;"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" style="margin-right:15px;"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" style="margin-right:15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" style="margin-right:15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" style="margin-right:15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" style="margin-right:15px;"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40" style="margin-right:15px;"/>
-<img src="https://img.icons8.com/color/48/ibm.png" width="40" style="margin-right:15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin-right:15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" style="margin-right:15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" style="margin-right:15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" style="margin-right:15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" hspace="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="48" hspace="10"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48" hspace="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" hspace="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" hspace="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" hspace="10"/>
+
+<img src="https://img.icons8.com/color/48/power-bi.png" height="48" hspace="10"/>
+
+<img src="https://img.icons8.com/color/48/ibm.png" height="48" hspace="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48" hspace="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="48" hspace="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="48" hspace="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="48" hspace="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="48"/>
+
 </p>
+
 
 ---
 
@@ -45,3 +61,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=kamaleshpanda&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kamaleshpanda&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshpanda&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+
